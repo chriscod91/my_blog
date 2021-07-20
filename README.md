@@ -3,4 +3,4 @@
 URL: https://stark-reaches-09412.herokuapp.com/
 
 To run the tests:
-`
+`$> python3 manage.py test`
